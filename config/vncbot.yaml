@@ -1,0 +1,15 @@
+# vm_name: 'win2k'
+# snapshot: 'win2k_clean'
+channels: [294948377295323137]
+
+vm_name: 'templeos'
+snapshot: 'templeos_clean'
+
+# vm_name: 'hml_test2'
+# snapshot: 'hml_test2_clean'
+
+# vm_name: 'xp'
+# snapshot: 'xp_clean'
+
+# vm_name: 'ult'
+# snapshot: 'ult_clean'
